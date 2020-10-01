@@ -1,10 +1,64 @@
 ---
 ---
 
-@import"{{ site.theme }}";
+@import 'jekyll-theme-cayman';
 
-.page-header{
-color:#ffff;
-background-color:#A067AB;
-background-image:linear-gradient(120deg,#5073B8,#A067AB);
+.header img {
+    width: 100%;
+}
+
+.navbar {
+    background-color: #333333;
+    height: 50px;
+    position: relative;
+    top: -7px;
+    width: 100%;
+}
+
+.navbar ul {
+    height: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.navbar a {
+    color: #EEEEEE;
+    display: inline-block;
+    font-size: 10px;
+    font-size: calc(60% + .7vw);
+    height: 50px;
+    padding-left: 2%;
+    padding-right: 2%;
+    text-decoration: none;
+}
+
+.navbar li {
+    display: inline;
+    line-height: 50px;
+}
+
+.navbar a:hover {
+    background-color: #800000;
+}
+
+.main-content h1 {
+    color: #800000;
+}
+
+.main-content h2 {
+    color: #800000;
+}
+
+.main-content h3 {
+    color: #800000;
+}
+
+.image-left {
+  display: block;
+  width: 200px;
+  margin-left: 20px;
+  margin-right: 20px;
+  float: left;
 }
