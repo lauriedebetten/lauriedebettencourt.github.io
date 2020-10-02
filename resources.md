@@ -2,4 +2,4 @@
 layout: default
 ---
 
-Enter contact information
+I will be linking various resources here which could be useful for parents and educators
