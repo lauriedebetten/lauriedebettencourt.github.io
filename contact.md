@@ -2,4 +2,4 @@
 layout: default
 ---
 
-Blank
+Enter contact information
