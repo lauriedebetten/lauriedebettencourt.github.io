@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Laurie deBettencourt, PhD
+Blank
 
 <br>
 
