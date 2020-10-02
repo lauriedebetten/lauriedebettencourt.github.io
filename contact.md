@@ -2,4 +2,6 @@
 layout: default
 ---
 
-Enter contact information
+The best way to contact me is via email at:
+
+debetten.specialed at gmail dot com
